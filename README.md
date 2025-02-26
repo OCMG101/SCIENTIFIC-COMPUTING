@@ -2,7 +2,7 @@
 
 ## **Week 1 Assignment**
 
-### **Objective of each script**  
+### **Objective of each script:**  
 This repository houses Python scripts that demonstrate key programming principles. Each script serves a distinct role:  
 
 - **datatypes.py** -> Explores different Python data types, performs type conversions, and prints variable classifications.  
@@ -12,7 +12,7 @@ This repository houses Python scripts that demonstrate key programming principle
 
 ---
 
-### **How to run the scripts**  
+### **How to run the scripts:**  
 1. Clone the repository:  
    ```sh
    git clone https://github.com/OCMG101/SCIENTIFIC-COMPUTING.git
@@ -26,7 +26,7 @@ This repository houses Python scripts that demonstrate key programming principle
    
 ---
 
-### **What I learnt**  
+### **What I learnt:**  
 - Basic understanding of Python's various data structures and type conversions.  
 - Practical application of loops, conditional statements, and functions.    
 - Organizing and managing a GitHub repository effectively.  
