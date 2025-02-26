@@ -13,7 +13,7 @@ This repository houses Python scripts that demonstrate key programming principle
 ---
 
 ### **How to run the scripts**  
-1. Clone the repository:
+1. Clone the repository: <br>
     "cd 'desired destination'
     git clone https://github.com/OCMG101/SCIENTIFIC-COMPUTING.git"
      
