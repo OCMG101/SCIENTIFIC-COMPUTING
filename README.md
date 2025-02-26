@@ -20,7 +20,7 @@ This repository houses Python scripts that demonstrate key programming principle
    ```  
 2. Navigate to the relevant folder:  
    ```sh
-   cd python_basics or numpy_intro
+   cd python_basics #or numpy_intro
    ```  
 3. Execute the script(s). 
    
