@@ -13,17 +13,17 @@ This repository houses Python scripts that demonstrate key programming principle
 ---
 
 ### **How to run the scripts**  
-1. Clone the repository: <br>
-    "cd 'desired destination'
-    git clone https://github.com/OCMG101/SCIENTIFIC-COMPUTING.git"
-     
-  
-3. Navigate to the relevant folder:  
-    python_basics or numpy_intro
-  
-4. Execute the script
-  
-
+1. Clone the repository:  
+   ```sh
+   git clone https://github.com/OCMG101/SCIENTIFIC-COMPUTING.git
+   cd python-basics
+   ```  
+2. Navigate to the relevant folder:  
+   ```sh
+   cd python_basics  or numpy_intro
+   ```  
+3. Execute the script:  
+   
 ---
 
 ### **What I learnt**  
