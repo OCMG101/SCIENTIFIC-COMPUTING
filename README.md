@@ -1,2 +1,32 @@
 # SCIENTIFIC-COMPUTING
-Projects from the scientific computing course
+
+## **Week 1 Assignmeng**
+
+### **Objective of each script**  
+This repository houses Python scripts that illustrate key programming principles. Each script serves a distinct role:  
+
+- **datatypes.py** → Explores different Python data types, performs type conversions, and prints variable classifications.  
+- **control_structures.py** → Uses conditional logic, loops, and functions to analyze numbers and generate sequences.  
+- **modular_functions.py** → Implements reusable functions to compute areas of various geometric shapes.  
+- **numpy_basics.py** → Introduces NumPy for numerical data processing and array manipulation.  
+
+---
+
+### **How to run the scripts**  
+1. Clone the repository:  
+    "git clone https://github.com/OCMG101/SCIENTIFIC-COMPUTING.git
+  
+2. Navigate to the relevant folder:  
+    python_basics  # or numpy_intro
+  
+3. Execute the script:  
+  
+
+---
+
+### **What I learnt**  
+- Understanding of Python's core data structures and type conversions.  
+- Practical application of loops, conditional statements, and functions.  
+- Writing efficient, modular code for reusability.  
+- Organizing and managing a GitHub repository effectively.  
+- Using Git for version tracking and documentation upkeep. 
