@@ -1,9 +1,9 @@
 # SCIENTIFIC-COMPUTING
 
-## **Week 1 Assignmeng**
+## **Week 1 Assignment**
 
 ### **Objective of each script**  
-This repository houses Python scripts that illustrate key programming principles. Each script serves a distinct role:  
+This repository houses Python scripts that demonstrate key programming principles. Each script serves a distinct role:  
 
 - **datatypes.py** → Explores different Python data types, performs type conversions, and prints variable classifications.  
 - **control_structures.py** → Uses conditional logic, loops, and functions to analyze numbers and generate sequences.  
@@ -13,13 +13,15 @@ This repository houses Python scripts that illustrate key programming principles
 ---
 
 ### **How to run the scripts**  
-1. Clone the repository:  
-    "git clone https://github.com/OCMG101/SCIENTIFIC-COMPUTING.git
+1. Clone the repository:
+    "cd 'desired destination'
+    git clone https://github.com/OCMG101/SCIENTIFIC-COMPUTING.git"
+     
   
-2. Navigate to the relevant folder:  
-    python_basics  # or numpy_intro
+3. Navigate to the relevant folder:  
+    python_basics or numpy_intro
   
-3. Execute the script:  
+4. Execute the script
   
 
 ---
